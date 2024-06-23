@@ -1,5 +1,5 @@
 # Donate
-
+A simple donation collection application
 
 # Project Description
 <li> MUET plans to launch a project (DONATE) for the students and faculty. </li>
